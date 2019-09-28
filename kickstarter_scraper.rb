@@ -15,3 +15,4 @@ create_project_hash
 # project.css("div.project-thumbnail a img").attribute("src").value selects image
 # project.css("p.bbcard_blurb").text selects description
 # project.css("ul.project-meta li a span.location-name")
+# project.css("ul.project-meta li a span.location-name").first.text
