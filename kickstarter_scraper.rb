@@ -21,7 +21,7 @@ end
 
 
 
-create_project_hash
+projects 
 
 # projects: project = kickstarter.css("li.project.grid_4") selects project
 # project.css("h2.bbcard_name strong a").text selects title 
